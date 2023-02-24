@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Fajar Tariq</h1>
-<h3 align="center">I am currently working in RevelTek. Inc</h3>
+### Hi there 👋, my name is Fajar Tariq
+#### I am Business Development Officer At Revel. Tek Inc.
+![I am Business Development Officer At Revel. Tek Inc.](https://github.com/Ftkhan717/Meeting-notes/blob/main/How%20To%20Work%20On%20An%20Issue.md)
 
-- 🔭 I’m currently working on **Microsoft 365**
+"Hi there! My name is Fajar Tariq, and I'm a Business Development Officer at Revel Tek. I'm passionate about exploring new business opportunities and building meaningful relationships with clients.
+With a degree in Business Management, I've developed a keen understanding of what it takes to create successful partnerships that drive growth and deliver results. I thrive on challenges and enjoy finding innovative solutions to complex problems.
 
-- 🌱 I’m currently learning **Agile methodology, SMILE methodology, IKIGAI, SMART STAR.**
+Skills: Strong Communication, Technical Proficiency i.e.  Microsoft Office applications such as Excel, Word, and PowerPoint, Strategic Thinking, Teamwork and Time Management.
 
-- 💬 Ask me about **Business Development Officer**
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 - 📫 How to reach me **Ftkhan717@gmail.com**
 
