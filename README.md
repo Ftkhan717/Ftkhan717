@@ -2,16 +2,12 @@
 #### I am Business Development Officer At Revel. Tek Inc.
 ![I am Business Development Officer At Revel. Tek Inc.](https://github.com/Ftkhan717/Meeting-notes/blob/main/How%20To%20Work%20On%20An%20Issue.md)
 
-"Hi there! My name is Fajar Tariq, and I'm a Business Development Officer at Revel Tek. I'm passionate about exploring new business opportunities and building meaningful relationships with clients.
-With a degree in Business Management, I've developed a keen understanding of what it takes to create successful partnerships that drive growth and deliver results. I thrive on challenges and enjoy finding innovative solutions to complex problems.
+* "Hi there! My name is Fajar Tariq, and I'm a Business Development Officer at Revel Tek. I'm passionate about exploring new business opportunities and building meaningful relationships with clients.
+* With a degree in Business Management, I've developed a keen understanding of what it takes to create successful partnerships that drive growth and deliver results. I thrive on challenges and enjoy finding innovative solutions to complex problems.
 
 Skills: Strong Communication, Technical Proficiency i.e.  Microsoft Office applications such as Excel, Word, and PowerPoint, Strategic Thinking, Teamwork and Time Management.
 
 - 🔭 I’m currently working on this page. 
-
-
-
-
 
 - 📫 How to reach me **Ftkhan717@gmail.com**
 
